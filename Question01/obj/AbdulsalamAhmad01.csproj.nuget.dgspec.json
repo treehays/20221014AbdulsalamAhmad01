@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\AbdulsalamAhmad01.csproj": {}
+    "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\Question01\\AbdulsalamAhmad01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\AbdulsalamAhmad01.csproj": {
+    "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\Question01\\AbdulsalamAhmad01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\AbdulsalamAhmad01.csproj",
+        "projectUniqueName": "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\Question01\\AbdulsalamAhmad01.csproj",
         "projectName": "AbdulsalamAhmad01",
-        "projectPath": "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\AbdulsalamAhmad01.csproj",
+        "projectPath": "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\Question01\\AbdulsalamAhmad01.csproj",
         "packagesPath": "C:\\Users\\Treehays\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\obj\\",
+        "outputPath": "C:\\Users\\Treehays\\Documents\\CLH\\AbdulsalamAhmad01\\Question01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Treehays\\AppData\\Roaming\\NuGet\\NuGet.Config",
