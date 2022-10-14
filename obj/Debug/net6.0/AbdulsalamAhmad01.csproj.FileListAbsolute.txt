@@ -1,0 +1,15 @@
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.csproj.AssemblyReference.cache
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.AssemblyInfoInputs.cache
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.AssemblyInfo.cs
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.csproj.CoreCompileInputs.cache
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\bin\Debug\net6.0\AbdulsalamAhmad01.exe
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\bin\Debug\net6.0\AbdulsalamAhmad01.deps.json
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\bin\Debug\net6.0\AbdulsalamAhmad01.runtimeconfig.json
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\bin\Debug\net6.0\AbdulsalamAhmad01.dll
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\bin\Debug\net6.0\AbdulsalamAhmad01.pdb
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.dll
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\refint\AbdulsalamAhmad01.dll
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.pdb
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\AbdulsalamAhmad01.genruntimeconfig.cache
+C:\Users\Treehays\Documents\CLH\Projects\AbdulsalamAhmad01\obj\Debug\net6.0\ref\AbdulsalamAhmad01.dll
