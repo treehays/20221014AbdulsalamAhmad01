@@ -2,39 +2,55 @@ namespace Question
 {
     class Program
     {
-        static void result(String title)
+        // Second Method if youre returning lists
+        static List<string> result(String title)
         {
-
-            string[] arr = title.Split(" ");
-            
-
+            var titls = title.ToLower();
+            string[] arr = titls.Split(" ");
+            var listOfWords = new List<string>();
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i].Length <= 2)
                 {
-                    Console.Write(arr[i].ToLower());
+                    listOfWords.Add(arr[i] + ' ');
                 }
                 else
                 {
-                    Console.Write((arr[i].ToUpper())[0]);
-                    Console.Write(arr[i].ToLower().Remove(0, 1));
+                    listOfWords.Add((arr[i].ToUpper())[0] + (arr[i].Remove(0, 1)) + ' ');
                 }
-                Console.Write(" ");
-
             }
-
+            return listOfWords;
         }
-
-
+        // Second Method if youre returning string
+        static string result2(String title)
+        {
+            var titls = title.ToLower();
+            string[] arr = titls.Split(" ");
+            var listOfWords = new List<string>();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i].Length <= 2)
+                {
+                    listOfWords.Add(arr[i] + ' ');
+                }
+                else
+                {
+                    listOfWords.Add((arr[i].ToUpper())[0] + (arr[i].Remove(0, 1)));
+                }
+            }
+            var resul = String.Join(' ', listOfWords);
+            return resul;
+        }
         public static void Main(string[] args)
         {
             Console.Write("Enter Sentence: ");
             String title = Console.ReadLine();
+            Console.WriteLine(result2(title));
             
-
-            result(title);
+            // foreach (var item in result2(title))
+            // {
+            //     Console.Write(item);
+            // }
         }
-
     }
-
 }
